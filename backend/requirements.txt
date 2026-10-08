@@ -1,0 +1,9 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+SQLAlchemy==2.0.40
+psycopg[binary]==3.2.6
+redis==5.2.1
+scikit-learn==1.6.1
+numpy==2.2.5
+pydantic==2.11.3
+python-dotenv==1.1.0
